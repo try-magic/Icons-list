@@ -1,7 +1,8 @@
 @font-face {
-  font-family: 'Entypo';
-  src: url('../fonts/entypo.eot');
-  src: url('../fonts/entypo.woff') format('woff'), url('../fonts/entypo.ttf') format('truetype'), url('../fonts/entypo.svg') format('svg');
+	/* Awesome icon font...:( */
+	font-family: 'Entypo';
+	src: url('../fonts/entypo.eot');
+	src: url('../fonts/entypo.woff') format('woff'), url('../fonts/entypo.ttf') format('truetype'), url('../fonts/entypo.svg') format('svg');
 }
 * {
 	margin: 0px;
